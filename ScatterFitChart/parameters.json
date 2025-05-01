@@ -1,0 +1,25 @@
+{
+    "Axes": 
+        {
+            "CData": [0, 0.4471, 0.7412],
+            "XLabel": "X",
+            "YLabel": "Y",
+            "Title": "X vs Y",
+            "Comments": "theme of the axes"
+        },
+
+    "Scatter": 
+        {
+            "Marker": "o",
+            "CData": [0, 0.4471, 0.7412],
+            "Comments": "theme of the scatter"
+        },
+
+     "Line": 
+        {
+            "LineColor": [0, 0.4471, 0.7412],
+            "LineWidth": 2,
+            "Comments": "theme of the best-fit line"
+        }
+
+}
